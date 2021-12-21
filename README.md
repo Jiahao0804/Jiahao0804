@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jiahao0804
-- 👀 I’m interested in playing games, watch animes, and playing basketball!
 - 🌱 I’m currently learning Python, C++!
 
 
